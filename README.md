@@ -3,7 +3,7 @@ Object detection using ImageAI on image/video dataset
 
 # Setting  
 tensorflow 2.4.0  
-python 3.6
+python 3.6<br/>
 Used model RetinaNet
 
 # Dataset
