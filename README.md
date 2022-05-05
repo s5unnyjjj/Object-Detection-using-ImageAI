@@ -25,6 +25,7 @@ https://user-images.githubusercontent.com/70457520/166924646-66e9c727-1e57-492c-
 https://user-images.githubusercontent.com/70457520/166924749-5fb0879e-8f76-48d6-8078-5278b6549d68.mp4
 
 # Reference  
-imageai: https://github.com/OlafenwaMoses/ImageAI
-additional explanation: https://s5unnyjjj.tistory.com/
+- imageai: https://github.com/OlafenwaMoses/ImageAI
+<br/>
+- additional explanation: https://s5unnyjjj.tistory.com/
 
