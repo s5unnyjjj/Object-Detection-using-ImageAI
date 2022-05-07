@@ -28,4 +28,5 @@ https://user-images.githubusercontent.com/70457520/166924749-5fb0879e-8f76-48d6-
 - imageai: https://github.com/OlafenwaMoses/ImageAI
 <br/>
 - additional explanation: https://s5unnyjjj.tistory.com/
+<br/>
 
